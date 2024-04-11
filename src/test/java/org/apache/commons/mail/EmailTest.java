@@ -18,6 +18,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+// Added comment to trigger CI System build and test
 public class EmailTest {
 	Email emailObj = null;
 	
